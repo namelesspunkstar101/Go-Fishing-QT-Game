@@ -1,2 +1,2 @@
-# Go-Fishing-QT-Game
-This is a final project for COP 3003 Programming 2 where me and my group created a 2D fishing simulator using C++ and the QT Framework
+# About Go Fishing!
+This game was created in only one week in order to fulfill the final project requirement for Programming 2 at Florida Gulf Coast University. The three of us used a mix of our skills to create this functional game, paying homage to both Club Penguin and our teammate's pet fish, Oscar. You are able to change the sprite of the fisherman, along with the sprites of any of the sea creatures, and even customize the number of fish needed to be caught in order to win the game. Please enjoy it!
